@@ -1,0 +1,14 @@
+*.class
+*.log
+
+# Idea
+.idea/
+*.iml
+
+out/
+
+target/
+data/
+
+.bsp/
+.DS_Store
